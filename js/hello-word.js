@@ -9,3 +9,4 @@ class HelloWorld extends React.Component {
 }
  
 React.render(<HelloWorld/>,document.getElementById("div1"));
+export default HelloWorld;
